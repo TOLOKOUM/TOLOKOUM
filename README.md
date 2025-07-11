@@ -4,7 +4,6 @@
 </div>
 
 
-
 <!-- Colorful separator -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="Divider" />
 
@@ -133,10 +132,19 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https://www.linkedin.com/in/david-tolokoum-23467a298" alt="QR Code LinkedIn" />
-  <p>📱 Scannez pour me contacter sur LinkedIn</p>
+<div style="display: flex; justify-content: center; gap: 40px; flex-wrap: nowrap; text-align: center;">
+  <div>
+    <img src="https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https://www.linkedin.com/in/david-tolokoum-23467a298" alt="QR Code LinkedIn" />
+    <p>📱 Scannez pour me contacter sur LinkedIn</p>
+  </div>
+  <div>
+    <img src="https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https://davidportfolio-hazel.vercel.app/" alt="QR Code Portfolio" />
+    <p>📱 Scannez pour visiter mon portfolio</p>
+  </div>
 </div>
+
+
+
 
 ---
 
