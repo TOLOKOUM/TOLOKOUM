@@ -1,6 +1,6 @@
 <!-- Typing Banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&height=120&lines=🔐+TOLOKOUM+David+Rive+-+Expert+Cybersécurité;🛡️+Master+2+Sécurité+des+Systèmes+d'Information;⚡+SIEM+%7C+Pentesting+%7C+Analyse+de+Risques" alt="Typing Banner"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&height=120&lines=🔐+TOLOKOUM+David+Rive+-+Ing%C3%A9nieur+Informaticien;🛡️+Cybers%C3%A9curit%C3%A9+%7C+Administration+R%C3%A9seau+%7C+Cloud;⚡+Pentesting+%7C+SIEM+%7C+Analyse+de+Risques+IT" alt="Typing Banner"/>
 </div>
 
 
@@ -14,10 +14,13 @@
 </div>
 
 <p align="justify">
-  🎯 Passionné par la <strong>cybersécurité offensive & défensive</strong>, je protège les infrastructures critiques.  
-  🎓 Étudiant en <strong>Master 2 Sécurité des SI</strong> à l'ENSP Yaoundé, et stagiaire à la <strong>DGI Cameroun</strong>.  
-  🔍 Mon objectif : combiner expertise technique et vision stratégique pour sécuriser des environnements complexes.
+  🎯 Passionné par la <strong>cybersécurité offensive et défensive</strong>, je conçois et implémente des solutions pour protéger les infrastructures critiques contre les menaces internes et externes. 
+  
+  🎓 Actuellement en <strong>Master 2 en Sciences de l’Ingénieur au Département de Génie Informatique</strong> à l'Ecole Nationale Superieure Polytechnique de Yaoundé.
+  
+  🔍 Mon objectif : allier expertise technique en réseaux, systèmes et sécurité à une vision stratégique afin d’anticiper les risques, renforcer la résilience des systèmes et promouvoir une gouvernance IT sécurisée.
 </p>
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=TOLOKOUM&label=Vues+du+profil&color=007EC6&style=flat-square" alt="Profile Views"/>
@@ -60,22 +63,30 @@
 
 ---
 
-## 📌 Expérience Professionnelle
+---
 
-### 🔐 **Stagiaire Cybersécurité — DGI (Direction Générale des Impôts)**
-📍 Yaoundé, Cameroun | 🗓️ 2025 - Présent  
-- 🛠️ Déploiement de Wazuh pour la supervision centralisée  
-- 🔍 Analyse de logs & alertes corrélées  
-- 📊 Création de dashboards en temps réel  
-- ⚙️ Automatisation de rapports avec Python
+## 📌 Expérience Professionnelle
 
 ### 🔐 **Stagiaire Cybersécurité — CAMTEL**
 📍 Yaoundé, Cameroun | 🗓️ Juillet - Septembre 2024  
-- 🔐 Architecture sécurisée Intranet  
-- 🔎 Audit réseau + segmentation Zero Trust  
-- ✅ Rédaction des recommandations techniques
+- Analyse de l’architecture réseau intranet et identification des vulnérabilités.  
+- Conception et proposition d’une architecture sécurisée : VLAN, pare-feu, DMZ.  
+- Mise en place d’un système de détection d’intrusions avec **Snort**, surveillance du trafic réseau et automatisation de la réponse aux incidents.  
+- Rédaction de recommandations techniques et articles de sensibilisation sur la cybersécurité et la protection des données (RGPD, bonnes pratiques, veille).  
 
----
+### 💻 **Projet Académique : Plateforme de Monitoring et d’Alerte Réseau**
+📍 ENSP Yaoundé | 🗓️ 2024 - 2025  
+- Conception et déploiement d’un système de supervision réseau sur machine virtuelle avec **Nagios**.  
+- Configuration SNMP des équipements et mise en place de scénarios de surveillance (disponibilité, CPU, trafic).  
+- Suivi des alertes et reporting pour l’optimisation de la sécurité réseau.  
+
+### ⚡ Compétences démontrées
+- Pentesting : Nmap, Wireshark, Metasploit  
+- SIEM : Wazuh, Splunk (bases)  
+- Threat Detection & Hunting : détection des TTPs (MITRE ATT&CK)  
+- Audit et conformité IT : ISO 27005, RGPD  
+- Réseaux et systèmes : TCP/IP, IPv4/IPv6, routage, switching, Linux, Windows Server, AWS (IAM, EC2, S3)  
+
 
 ## 🎓 Formation & Certifications
 
@@ -84,14 +95,17 @@
   ENSP Yaoundé | *2024 - 2026*
 - 🎓 Licence en Informatique  
   ENSP Yaoundé | *2021 - 2024*
+- 🎓 Baccalaureat D  
+  Lycee Bilingue de Bonaberi Douala | *2020*
 
 ### 📜 **Certifications**
 <p>
-  <img src="https://img.shields.io/badge/ISC2_CC-FF6600?style=for-the-badge&logo=isc2" />
-  <img src="https://img.shields.io/badge/Wazuh-00A8E0?style=for-the-badge&logo=wazuh" />
-  <img src="https://img.shields.io/badge/Cisco_Certified-1BA0D7?style=for-the-badge&logo=cisco" />
-  <img src="https://img.shields.io/badge/ISO_27001-0033A0?style=for-the-badge&logo=iso" />
+  <img src="https://img.shields.io/badge/ISC2_CC-FF6600?style=for-the-badge&logo=isc2" alt="Certified in Cybersecurity (CC) – ISC²" />
+  <img src="https://img.shields.io/badge/Fortinet_FCF-ED1C24?style=for-the-badge&logo=fortinet" alt="Fortinet Certified Fundamentals (FCF)" />
+  <img src="https://img.shields.io/badge/Huawei_HCIA_Security_V4-FF0000?style=for-the-badge&logo=huawei" alt="Huawei HCIA Security V4" />
+  <img src="https://img.shields.io/badge/ISO_IEC_27001_2022-0033A0?style=for-the-badge&logo=iso" alt="ISO/IEC 27001:2022 Information Security Associate - SkillFront" />
 </p>
+
 
 ---
 
